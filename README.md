@@ -1,2 +1,3 @@
 # Python-Projects
-Random Python Scripts
+Welcome to my github!
+~Feel free to download and use my scripts!~
